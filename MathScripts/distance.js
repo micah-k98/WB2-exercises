@@ -1,4 +1,4 @@
-
+"use strict"
 
 // find the distance between (x1, y1) and (x2, y2)
 
