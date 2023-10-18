@@ -3,7 +3,7 @@
 // find the distance between (x1, y1) and (x2, y2)
 
 // answer: use the pythagoren Theorem
-//points are (4, 8) (12, 14)
+// points are:
 const x1 = 3, x2 = 1;
 const y1 = -1, y2 = -3;
 
