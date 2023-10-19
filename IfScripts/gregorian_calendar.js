@@ -1,6 +1,6 @@
 "use strict"
 
-const givenYear = 2012;
+const givenYear = 2017;
 
 // variables here saves the remainder when divided by 100, 400, and 4, respectively
 const divisibleBy100 = givenYear % 100; // through divisibleBy100, it's verifrying if the GIVEN YEAR is the end-of-century year
