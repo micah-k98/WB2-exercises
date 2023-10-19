@@ -10,7 +10,7 @@ if (hoursWorked < 40) {
     console.log(payRate.toFixed(2) + "                 " + hoursWorked + "                  " + grossPay.toFixed(2) + "         Under 40 hours");
 }
 
-if (hoursWorked == 40) {
+else if (hoursWorked == 40) {
     console.log(payRate.toFixed(2) + "                 " + hoursWorked + "                  " + grossPay.toFixed(2) + "         Exactly 40 hours");
 }
 
